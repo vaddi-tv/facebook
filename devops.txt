@@ -4,7 +4,7 @@ public class SwapNumbers {
 
         float first = 1.20f, second = 2.45f;
 
-        
+
 
         // Value of first is assigned to temporary
         float temporary = first;
